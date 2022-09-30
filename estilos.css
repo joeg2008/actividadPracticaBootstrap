@@ -1,0 +1,34 @@
+.nav-link{
+color: white;
+}
+.navbar-brand{
+color: white;
+}
+
+
+.row{
+  text-align: left;
+}
+
+.card{
+
+    margin: 2px;
+    height: 400px;
+    text-align: left;
+}
+
+.card-img-top{    
+    height: 237px;
+    }
+
+
+.btn.btn-primary{
+background-color: rgb(56, 98, 237);
+color: white;
+}
+
+.btn.btn-primary:hover{
+    background-color: rgb(15, 230, 11);
+    color: white;
+    }
+
